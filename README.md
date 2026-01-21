@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnloydlao/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lao.johnloyd@gmail.com)
 
-a passionate WEB DEVELOPER who thrives on solving complex problems and crafting clean, efficient code. I’ve built robust applications, optimized performance, and tackled challenges creatively to grow as a developer.
+I have always been drawn to the puzzle of a complex problem. There is a specific kind of satisfaction that comes from taking a messy, complicated challenge and turning it into clean, efficient code. That is really what drives my work every day.
 
 ## 🚀💻 Technologies & Tools
 
